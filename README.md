@@ -26,12 +26,12 @@ $ cd front-end
 ```
 
 <h2> Rodar no Intellij </h2>
-Agora, dentro do IntelliJ, vamos instalar as depedências com o Maven E por fim, entre no arquivo da classe `CardapioApllication` para executar o projeto
+Agora, dentro do IntelliJ, vamos instalar as depedências com o Maven E por fim, entre no arquivo da classe CardapioApllication para executar o projeto <br>
 
 <img src="https://github.com/robsondejesus1996/Food-Cardapio/assets/31260719/dc792e33-8795-43d1-a9c4-121274ce7589" width="50%">
 
 
-<h2 id="related">🫂 Integração com Frontend</h2>
+<h2 id="related">Integração com Frontend</h2>
 
 
 Para realizar a integração com o Frontend, você pode abrir o projeto "FRONT-END" com <b>cd front-end</b> e executar o comando <b>code .</b> para abrir o projeto no visualCode. 
@@ -50,8 +50,8 @@ Para realizar a integração com o Frontend, você pode abrir o projeto "FRONT-E
 <img src="https://github.com/robsondejesus1996/Food-Cardapio/assets/31260719/efcafb95-a5d0-4840-a009-4db9f5c1c81d" width="50%">
 
 <h2> API Postman </h2>
-+localhost:8080/food ---- (GET)
-+localhost:8080/food ---- (POST)
++ localhost:8080/food ---- (GET)<br>
++ localhost:8080/food ---- (POST)<br>
 
 <img src="https://github.com/robsondejesus1996/Food-Cardapio/assets/31260719/dfdcd9f9-8579-4763-a5f2-b924a85d1450" width="50%">
 
